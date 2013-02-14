@@ -2,13 +2,13 @@
 %global rlibdir  %{_libdir}/R/library
 
 Name:             R-%{packname}
-Version:          2.01_31
+Version:          2.01.32
 Release:          1
 Summary:          Spatial and Space-Time Point Pattern Analysis
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
-Source0:          http://cran.r-project.org/src/contrib/%{packname}_2.01-31.tar.gz
+Source0:          http://cran.r-project.org/src/contrib/splancs_2.01-32.tar.gz
 Requires:         R-sp 
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-sp
 
