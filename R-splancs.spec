@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          2.01.32
-Release:          1
+Release:          2
 Summary:          Spatial and Space-Time Point Pattern Analysis
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
