@@ -7,7 +7,7 @@ Release:          2
 Summary:          Spatial and Space-Time Point Pattern Analysis
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/splancs_2.01-32.tar.gz
 Requires:         R-sp 
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-sp
